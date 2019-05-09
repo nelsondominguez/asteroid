@@ -11,3 +11,8 @@ Part 2 Asteroids creation
     -creating Asteroids
     -asteroids properties
     -asteroid movement
+
+Part 3 Collision Detection and Explosions
+    -collision created
+    -explosion effects and time created
+    -immune blinking effect added
